@@ -48,7 +48,8 @@
           "config": {
             "repository": {
               "owner": "wiratr",
-              "name": "client-demo"
+              "name": "client-demo",
+              "draft": true
             }
           }
         }
